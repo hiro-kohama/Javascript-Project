@@ -11,6 +11,6 @@
 04 Profile Statistics : http://127.0.0.1:5500/04_Profile%20Statitics/index.html
 /* increment by data-ceil while setTimeout */
 
-05 Rotating Image Gallery : http://127.0.0.1:5500/index.html
+05 Rotating Image Gallery : http://127.0.0.1:5500/05_Rotating%20Image%20Gallery/index.html
 
-06 New Year Countdown : http://127.0.0.1:5500/index.html
+06 New Year Countdown : http://127.0.0.1:5500/06_New%20Year%20Countdown/index.html
