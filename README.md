@@ -14,3 +14,5 @@
 05 Rotating Image Gallery : http://127.0.0.1:5500/05_Rotating%20Image%20Gallery/index.html
 
 06 New Year Countdown : http://127.0.0.1:5500/06_New%20Year%20Countdown/index.html
+
+07 Random Password Generator : http://127.0.0.1:5500/07_Rondom%20Password%20Generator/index.html
