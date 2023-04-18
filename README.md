@@ -9,6 +9,7 @@
 03 Emoji Rating : http://127.0.0.1:5500/03_emoji-rating/index.html
 
 04 Profile Statistics : http://127.0.0.1:5500/04_Profile%20Statitics/index.html
+/* increment by data-ceil while setTimeout */
 
 05 Rotating Image Gallery : http://127.0.0.1:5500/index.html
 
