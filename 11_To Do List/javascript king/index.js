@@ -7,7 +7,9 @@ list.forEach(task => {
   toDoList(task)
 })
 
+// form submit
 formEl.addEventListener( "submit", (event) => {
+  // prevent the page to be refreshed 
   event.preventDefault()
 
   toDoList()
